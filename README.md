@@ -13,3 +13,6 @@ Java code for various Object Oriented Design Patterns
         * [Basic HTML Builder](https://github.com/varunu28/Object-Oriented-Design-Patterns/tree/master/src/creational/builder/htmlbuilder)
         * [Builder with Recursive Generics](https://github.com/varunu28/Object-Oriented-Design-Patterns/tree/master/src/creational/builder/recursivegenerics)
         * [Facade Builder](https://github.com/varunu28/Object-Oriented-Design-Patterns/tree/master/src/creational/builder/facadebuilder)
+    * [Factory Pattern](https://github.com/varunu28/Object-Oriented-Design-Patterns/tree/master/src/creational/factory)
+        * [Basic Point Factory](https://github.com/varunu28/Object-Oriented-Design-Patterns/tree/master/src/creational/factory/basicpointfactory)
+        

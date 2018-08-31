@@ -16,6 +16,6 @@ Java code for various Object Oriented Design Patterns
     * [Factory Pattern](https://github.com/varunu28/Object-Oriented-Design-Patterns/tree/master/src/creational/factory)
         * [Basic Point Factory](https://github.com/varunu28/Object-Oriented-Design-Patterns/tree/master/src/creational/factory/basicpointfactory)
     * [Singleton Pattern](https://github.com/varunu28/Object-Oriented-Design-Patterns/tree/master/src/creational/singleton)
-        * [Print Spooler Example](https://github.com/varunu28/Object-Oriented-Design-Patterns/tree/master/src/creational/factory/printspoolerexample)
+        * [Print Spooler Example](https://github.com/varunu28/Object-Oriented-Design-Patterns/tree/master/src/creational/singleton/printspoolerexample)
          
         
